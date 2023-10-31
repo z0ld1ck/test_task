@@ -3,7 +3,6 @@ import 'package:go_router/go_router.dart';
 import 'package:intl/intl.dart';
 import 'package:test_task/widgets/custom_date_picker.dart';
 import 'package:test_task/widgets/info_textfields.dart';
-import 'package:test_task/widgets/next_step_button.dart';
 import 'package:test_task/widgets/recipient_address.dart';
 
 import '../widgets/custom_sender_details.dart';
